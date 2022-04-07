@@ -1,0 +1,14 @@
+p{
+ color:peru;
+}
+a{
+    color: coral;
+}
+li {
+
+    list-style: lower-roman;
+}
+.special{
+    color:seagreen;
+    font-weight: bold;
+}
